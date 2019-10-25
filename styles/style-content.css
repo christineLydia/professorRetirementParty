@@ -2,6 +2,28 @@
     box-sizing: border-box;
 }
 
+.top-background-retirement {
+    height: 220px;
+    width: 100%;
+    background-color: yellow;
+    // background-image: url("../images/flower-background-pickar-pic-small-device.png");
+}
+
+.retirement-party-text {
+    font-size: 30px;
+    text-align: center;
+}
+
+.honoring-text {
+    font-size: 20px;
+    text-align: center;
+}
+
+.name-text {
+    font-size: 24px;
+    text-align: center;
+}
+
 ul {
     list-style-type: none;
 }
