@@ -3,25 +3,30 @@
 }
 
 .top-background-retirement {
-    height: 220px;
+    height: 250px;
     width: 100%;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     background-color: yellow;
     // background-image: url("../images/flower-background-pickar-pic-small-device.png");
 }
 
 .retirement-party-text {
+    height: 60px;
     font-size: 30px;
     text-align: center;
+    padding-top: 25px;
 }
 
 .honoring-text {
     font-size: 20px;
     text-align: center;
+    padding-top: 50px;
 }
 
 .name-text {
     font-size: 24px;
     text-align: center;
+    padding-top: 40px;
 }
 
 ul {
