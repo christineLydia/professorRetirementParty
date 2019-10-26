@@ -5,28 +5,35 @@
 .top-background-retirement {
     height: 290px;
     width: 100%;
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    background-color: #045FB4;
+    // font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-family: Snell Roundhand;
     // background-image: url("../images/flower-background-pickar-pic-small-device.png");
 }
 
+.top-background-flower-top {
+    height: 30px;
+    width: 100%;
+    background-image: url("../images/flower-single.jpg");
+    background-repeat: repeat-x;
+}
+
 .retirement-party-text {
-    font-size: 45px;
-    color: #A4A4A4;
+    font-size: 25px;
+    color: #045FB4;
     text-align: center;
-    padding-top: 25px;
+    padding-top: 35px;
 }
 
 .honoring-text {
     font-size: 20px;
-    color: #A4A4A4;
+    color: #045FB4;
     text-align: center;
     padding-top: 50px;
 }
 
 .name-text {
     font-size: 30px;
-    color: #A4A4A4;
+    color: #045FB4;
     text-align: center;
     padding-top: 40px;
 }
