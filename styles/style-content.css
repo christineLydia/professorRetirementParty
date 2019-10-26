@@ -11,10 +11,10 @@
 }
 
 .top-background-flower-top {
-    height: 30px;
+    height: 50px;
     width: 100%;
-    background-image: url("../images/flower-single.jpg");
-    background-repeat: repeat-x;
+    background-image: url("../images/flower-single.png");
+    background-repeat: no-repeat;
 }
 
 .retirement-party-text {
