@@ -3,39 +3,41 @@
 }
 
 .top-background-retirement {
-    height: 290px;
+    height: 300px;
     width: 100%;
     // font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     font-family: Snell Roundhand;
     // background-image: url("../images/flower-background-pickar-pic-small-device.png");
 }
 
-.top-background-flower-top {
+.top-background-flower-border {
     height: 50px;
     width: 100%;
-    background-image: url("../images/flower-single.png");
-    background-repeat: no-repeat;
+    background-image: url("../images/flower-single-2.png");
+    // background-repeat: repeat-x;
 }
 
 .retirement-party-text {
-    font-size: 25px;
+    font-size: 60px;
+    font-weight: bold;
     color: #045FB4;
     text-align: center;
-    padding-top: 35px;
+    padding-top: 20px;
 }
 
 .honoring-text {
-    font-size: 20px;
-    color: #045FB4;
-    text-align: center;
-    padding-top: 50px;
-}
-
-.name-text {
     font-size: 30px;
     color: #045FB4;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 20px;
+}
+
+.name-text {
+    font-size: 40px;
+    font-weight: bold;
+    color: #045FB4;
+    text-align: center;
+    padding-top: 20px;
 }
 
 ul {
