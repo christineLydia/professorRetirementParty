@@ -6,13 +6,13 @@
     height: 250px;
     width: 100%;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-    background-color: yellow;
+    font-color: white;
+    background-color: #045FB4;
     // background-image: url("../images/flower-background-pickar-pic-small-device.png");
 }
 
 .retirement-party-text {
-    height: 60px;
-    font-size: 30px;
+    font-size: 45px;
     text-align: center;
     padding-top: 25px;
 }
@@ -24,7 +24,7 @@
 }
 
 .name-text {
-    font-size: 24px;
+    font-size: 30px;
     text-align: center;
     padding-top: 40px;
 }

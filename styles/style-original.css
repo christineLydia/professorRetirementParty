@@ -62,7 +62,7 @@ body, html {
 .profile-picture-image {
     margin: auto;
     width: 200px;
-    height: 200px;
+    height: 220px;
     background-image: url("../images/pickar-picture-1.png");
     background-size: 100% 100%;
     background-repeat: no-repeat:
@@ -71,7 +71,7 @@ body, html {
 
 .profile-title {
     padding-left: 40px;
-    padding-top: 10px;
+    padding-top: 25px;
     height: 150px;
 }
 
@@ -106,7 +106,7 @@ ul {
 }
 
 .navigation-item {
-    height:32px;
+    height:42px;
 }
 
 a:link, a:visited {
