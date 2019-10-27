@@ -29,7 +29,8 @@ body, html {
 
 .sidebar-left-text {
     color: #A4A4A4;
-    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    // font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-family: Snell Roundhand;
 }
 
 .body-right {
