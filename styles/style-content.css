@@ -52,6 +52,11 @@
     text-align: center;
 }
 
+.hotel-map-block {
+    height: 200px;
+    width: 80%;
+}
+
 .hotel-item-block {
     height: 150px;
     margin-top: 20px;
