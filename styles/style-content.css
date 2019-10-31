@@ -52,6 +52,16 @@
     text-align: center;
 }
 
+.hotel-item-block {
+    height: 250px;
+    background-color: yellow;
+}
+
+.hotel-name {
+    font-weight: bold;
+    font-size: 30px;
+}
+
 ul {
     list-style-type: none;
 }
