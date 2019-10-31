@@ -117,11 +117,10 @@ body {
 
 .section-subtitle {
     padding-top: 15px;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     color: #000000;
-    text-align: center;
 }
 
 .section-content {
