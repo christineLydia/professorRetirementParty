@@ -53,13 +53,13 @@
 }
 
 .hotel-item-block {
-    height: 250px;
-    background-color: yellow;
+    height: 150px;
+    margin-top: 20px;
 }
 
 .hotel-name {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 ul {
