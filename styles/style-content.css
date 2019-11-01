@@ -146,10 +146,13 @@ body {
     background-color: yellow;
 }
 
-.speaker-picture {
+.speaker-picture-block {
     height: 80px;
     width: 80px;
     float: left;
+}
+
+.Aaron-picture {
     background-image: url("../images/Aaron.jpg");
     background-size: 100% 100%;
 }
