@@ -143,20 +143,18 @@ body {
 .speaker-block {
     height: 100px;
     width: 100%;
-    background-color: yellow;
 }
 
 .speaker-picture-block {
     height: 80px;
     width: 80px;
-    float: left;
 }
 
 .Aaron-picture {
-    background-image: url("../images/Aaron.jpg");
+    background-image: url("../images/speaker-pictures/Aaron.jpg");
     background-size: 100% 100%;
 }
 
 .speaker-name-block {
-    left: 120px;
+    padding-left: 150px;
 }
