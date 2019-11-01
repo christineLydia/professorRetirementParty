@@ -143,6 +143,7 @@ body {
 .speaker-block {
     height: 100px;
     width: 100%;
+    background-color: yellow;
 }
 
 .speaker-picture {
