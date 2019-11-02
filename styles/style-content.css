@@ -173,7 +173,7 @@ body {
 .Mory-picture {
     height: 80px;
     width: 80px;
-    background-image: url("../images/speaker-pictures/Mory.jpg");
+    background-image: url("../images/speaker-pictures/Mory.jpeg");
     background-size: 100% 100%;
 }
 
@@ -189,6 +189,27 @@ body {
     height: 80px;
     width: 80px;
     background-image: url("../images/speaker-pictures/Richard.jpg");
+    background-size: 100% 100%;
+}
+
+.Guruswami-picture {
+    height: 80px;
+    width: 80px;
+    background-image: url("../images/speaker-pictures/Guruswami.jpg");
+    background-size: 100% 100%;
+}
+
+.Gil-picture {
+    height: 80px;
+    width: 80px;
+    background-image: url("../images/speaker-pictures/Gil.jpg");
+    background-size: 100% 100%;
+}
+
+.Ares-picture {
+    height: 80px;
+    width: 80px;
+    background-image: url("../images/speaker-pictures/Ares.jpg");
     background-size: 100% 100%;
 }
 
