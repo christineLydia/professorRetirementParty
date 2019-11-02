@@ -146,17 +146,17 @@ body {
 }
 
 .speaker-block {
-    height: 100px;
+    height: 80px;
     width: 100%;
 }
 
 .speaker-picture-block {
-    width: 80px;
+    width: 65px;
 }
 
 .Aaron-picture {
-    height: 80px;
-    width: 80px;
+    height: 65px;
+    width: 65px;
     background-image: url("../images/speaker-pictures/Aaron.jpg");
     background-size: 100% 100%;
 }
