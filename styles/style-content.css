@@ -146,21 +146,26 @@ body {
 }
 
 .speaker-picture-block {
-    height: 80px;
     width: 80px;
 }
 
 .Aaron-picture {
+    height: 80px;
+    width: 80px;
     background-image: url("../images/speaker-pictures/Aaron.jpg");
     background-size: 100% 100%;
 }
 
 .Jose-picture {
+    height: 80px;
+    width: 80px;
     background-image: url("../images/speaker-pictures/Jose.jpg");
     background-size: 100% 100%;
 }
 
 .Kaushik-picture {
+    height: 80px;
+    width: 80px;
     background-image: url("../images/speaker-pictures/Kaushik.jpg");
     background-size: 100% 100%;
 }
