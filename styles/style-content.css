@@ -155,6 +155,16 @@ body {
     background-size: 100% 100%;
 }
 
+.Jose-picture {
+    background-image: url("../images/speaker-pictures/Jose.jpg");
+    background-size: 100% 100%;
+}
+
+.Kaushik-picture {
+    background-image: url("../images/speaker-pictures/Kaushik.jpg");
+    background-size: 100% 100%;
+}
+
 .speaker-name-block {
     padding-left: 100px;
 }
