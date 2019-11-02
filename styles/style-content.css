@@ -140,6 +140,11 @@ body {
     width: 100%;
 }
 
+.schedule-title-block {
+    height: 80px;
+    width: 100%;
+}
+
 .speaker-block {
     height: 100px;
     width: 100%;
