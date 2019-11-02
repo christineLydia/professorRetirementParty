@@ -233,6 +233,20 @@ body {
     background-size: 100% 100%;
 }
 
+.Betty-picture {
+    height: 65px;
+    width: 65px;
+    background-image: url("../images/speaker-pictures/Betty.jpeg");
+    background-size: 100% 100%;
+}
+
+.Rudy-picture {
+    height: 65px;
+    width: 65px;
+    background-image: url("../images/speaker-pictures/Rudy.jpeg");
+    background-size: 100% 100%;
+}
+
 .speaker-name-block {
     padding-left: 100px;
 }
