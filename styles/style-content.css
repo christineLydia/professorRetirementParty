@@ -143,6 +143,7 @@ body {
 .schedule-title-block {
     height: 60px;
     width: 100%;
+    background-color: #E5E5E5;
 }
 
 .speaker-block {
@@ -215,6 +216,20 @@ body {
     height: 80px;
     width: 80px;
     background-image: url("../images/speaker-pictures/Ares.jpg");
+    background-size: 100% 100%;
+}
+
+.Downard-picture {
+    height: 65px;
+    width: 65px;
+    background-image: url("../images/speaker-pictures/Downard.jpeg");
+    background-size: 100% 100%;
+}
+
+.Lu-picture {
+    height: 65px;
+    width: 65px;
+    background-image: url("../images/speaker-pictures/Lu.jpeg");
     background-size: 100% 100%;
 }
 
