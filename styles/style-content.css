@@ -171,6 +171,13 @@ body {
 .Aaron-picture {
     height: 65px;
     width: 65px;
+    background-image: url("../images/speaker-pictures/David.jpg");
+    background-size: 100% 100%;
+}
+
+.Aaron-picture {
+    height: 65px;
+    width: 65px;
     background-image: url("../images/speaker-pictures/Aaron.jpg");
     background-size: 100% 100%;
 }
@@ -235,7 +242,7 @@ body {
 .Downard-picture {
     height: 65px;
     width: 65px;
-    background-image: url("../images/speaker-pictures/Downard.jpeg");
+    background-image: url("../images/speaker-pictures/Clare_Andy.jpeg");
     background-size: 100% 100%;
 }
 
