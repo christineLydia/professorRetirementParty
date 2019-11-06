@@ -49,6 +49,10 @@
     font-weight: bold;
 }
 
+.text-italic {
+    font-style: italic;
+}
+
 .padding-left-50px {
     padding-left: 50px;
 }
@@ -203,7 +207,6 @@ body {
     background-size: 100% 100%;
 }
 
-// TODO: find Andy Lin's profile picture
 .AndyLin-picture {
     height: 65px;
     width: 65px;
