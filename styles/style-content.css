@@ -186,13 +186,6 @@ body {
     background-size: 100% 100%;
 }
 
-.Jose-picture {
-    height: 65px;
-    width: 65px;
-    background-image: url("../images/speaker-pictures/Jose.jpg");
-    background-size: 100% 100%;
-}
-
 .Kaushik-picture {
     height: 65px;
     width: 65px;
@@ -221,6 +214,13 @@ body {
     background-size: 100% 100%;
 }
 
+.Tim-picture {
+    height: 65px;
+    width: 65px;
+    background-image: url("../images/speaker-pictures/Tim.jpeg");
+    background-size: 100% 100%;
+}
+
 .Guruswami-picture {
     height: 65px;
     width: 65px;
@@ -232,13 +232,6 @@ body {
     height: 65px;
     width: 65px;
     background-image: url("../images/speaker-pictures/Gil.jpg");
-    background-size: 100% 100%;
-}
-
-.Ares-picture {
-    height: 65px;
-    width: 65px;
-    background-image: url("../images/speaker-pictures/Ares.jpg");
     background-size: 100% 100%;
 }
 
