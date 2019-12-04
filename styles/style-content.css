@@ -157,115 +157,128 @@ body {
 }
 
 .schedule-title-block {
-    height: 50px;
+    height: 40px;
     width: 100%;
     background-color: #E5E5E5;
 }
 
 .speaker-block {
-    height: 80px;
+    height: 60px;
     padding-left: 20px;
 }
 
 .speaker-picture-block {
     width: 105px;
-    padding-left: 20px;
+}
+
+.picture-center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .David-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/David.jpg");
     background-size: 100% 100%;
 }
 
 .Aaron-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Aaron.jpg");
     background-size: 100% 100%;
 }
 
 .Kaushik-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Kaushik.jpg");
     background-size: 100% 100%;
 }
 
 .Mory-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Mory.jpeg");
     background-size: 100% 100%;
 }
 
 .AndyLin-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/AndyLin.jpg");
     background-size: 100% 100%;
 }
 
 .Richard-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Richard.jpg");
     background-size: 100% 100%;
 }
 
 .Tim-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Tim.jpeg");
     background-size: 100% 100%;
 }
 
 .Guruswami-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Guruswami.jpg");
     background-size: 100% 100%;
 }
 
 .Gil-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Gil.jpg");
     background-size: 100% 100%;
 }
 
 .Downard-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Claire_Andy.jpeg");
     background-size: 100% 100%;
 }
 
 .Arash-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Arash.jpg");
     background-size: 100% 100%;
 }
 
+.float-left-1 {
+    float: left;
+} 
+
+.float-left-2 {
+    float: left;
+    margin-left: 20px;
+}
+
 .Lu-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Lu.jpg");
     background-size: 100% 100%;
 }
 
 .Betty-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Betty.jpeg");
     background-size: 100% 100%;
 }
 
 .Rudy-picture {
-    height: 65px;
-    width: 65px;
+    height: 55px;
+    width: 55px;
     background-image: url("../images/speaker-pictures/Rudy.jpeg");
     background-size: 100% 100%;
 }
